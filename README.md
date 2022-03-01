@@ -4,4 +4,4 @@ Betiği çalıştırmanız için yapmanız gerekenler;
 - PowerShell uygulamaasını yönetici olarak çalıştırın.
 - cd MicrosoftTeamsGroupCreators.ps1 indirdiğiniz dosyanın dizinini girerek enter tuşuna basın.
 - ./MicrosoftTeamsGroupCreators.ps1 dosyasını çalıştırın.
-- 
+- Gelen ekrana Microsoft 365 Global admin hesap bilgilerinizi girin.
