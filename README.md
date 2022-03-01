@@ -16,3 +16,5 @@ Betiği çalıştırmanız için yapmanız gerekenler;
 - cd MicrosoftTeamsGroupCreators.ps1 indirdiğiniz dosyanın dizinini girerek enter tuşuna basın.
 - ./MicrosoftTeamsGroupCreators.ps1 dosyasını çalıştırın.
 - Gelen ekrana Microsoft 365 Global admin hesap bilgilerinizi girin.
+
+![Otomatikleştirme](https://user-images.githubusercontent.com/53214224/156134375-c51bf8cf-3344-43cc-8497-696eabf5516a.png)
