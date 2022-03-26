@@ -1,4 +1,11 @@
-﻿#Kullanıcıların Microsoft Teams Üzerinde takım oluşturmasını engelleme
+<#
+.HAKKIMDA
+	Mehmet PATLAKYİĞİT | Office Apps & Services MVP
+	www.parlakyigit.net
+	Twitter:@mparlakyigit 
+#>
+
+#Kullanıcıların Microsoft Teams Üzerinde takım oluşturmasını engelleme
 #https://www.parlakyigit.net/microsoft-teams-kullanicilarinin-takim-olusturmasini-engelleyin/
 
 
